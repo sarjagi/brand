@@ -2,7 +2,9 @@
 
 ## API Links
 There is no need for any token tokens as the api is for trial purposes.
+In case of a paid usage, there will be a need for additional parameters in the form of "?token=TOKEN".
 
+Make your production accordingly
 
 # Access to On-Road Stations
 Returns the data of the nearest stations on the route.
